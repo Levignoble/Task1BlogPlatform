@@ -80,12 +80,3 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
-
-## Credits
-
-The Django Blog API project is developed and maintained by [Rohan Phulkar](https://github.com/rohanphulkar).
-
-- 👨‍💻 All of my projects are available at [rohanphulkar.vercel.app](rohanphulkar.vercel.app)
-- LinkedIn: [![rohanphulkar](https://res.cloudinary.com/rohanphulkar/image/upload/v1684619255/social-icons/linked-in-alt_dsqxqx.svg)](https://linkedin.com/in/rohanphulkar)
-
-- Instagram: [![codes.rohan](https://res.cloudinary.com/rohanphulkar/image/upload/v1684619255/social-icons/instagram_slovbx.svg)](https://instagram.com/codes.rohan)
